@@ -6,6 +6,8 @@ That Kid Discord bot for Item 193:
 
 ## Ask That Kid Bot
 
+You must *mention* @thatscavkid in order for thatkidbot to respond. This is so we don't get into bot fights. 
+
 Some topics of conversation:
 - quantum mechanics
 - formalism
