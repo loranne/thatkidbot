@@ -21,3 +21,5 @@ Some topics of conversation:
 feelings about scav, math, logic, computer, intelligence, AI, information, economics, being rational, data, statistics, evidence, modern times, punishment (but not crimes), grades, onions, belts, baseball, zeppelins, washtubs, turkeys
 
 Engels, Hegel, Schopenhauer, Comte, Kierkegaard, Nietzsche, Husserl, Heidegger, Wittgenstein, Sartre, Bordieu, Derrida, Habermas, Beauvoir, Weil, Nussbaum, Arendt, John Stuart Mill, Hobbes, Locke, Rousseau, Adorno, Foucault, Socrates, Plato, Aristotle, Greece, The Academy, Kaiser
+
+or you could always share your opinions with thatkidbot
